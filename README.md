@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio for **Daniel Kariuki Githua**, IT Solutions Architect & Network Engineer based in Kenya, and founder-side showcase of **NetNote Group**.
 
-🔗 **Live site:** https://YOUR-SITE-URL-HERE
+🔗 **Live site:** [https://YOUR-SITE-URL-HERE](https://netnotegroup.github.io/daniel-kariuki-portfolio/)
 
 ## About
 
